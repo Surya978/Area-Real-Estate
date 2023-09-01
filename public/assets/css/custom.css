@@ -1,0 +1,19 @@
+.awards-img-wrap
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.awards-img-wrap img
+{
+    width: 20px;
+}
+
+.remove_home .ltn__shop-options
+{
+    display: none !important;
+}
+.remove_home .ltn__search-widget
+{
+    display: none !important;
+}

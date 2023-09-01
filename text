@@ -1,0 +1,1757 @@
+https://incomparable-liger-053183.netlify.app/#/
+
+
+
+
+
+
+{
+  "listinglist": [
+    {
+      "office_sysid": 360,
+      "sysid": 738296,
+      "refno": "6Y3A",
+      "modstamp": "2023-06-20T17:26:36",
+      "details": {
+        "status": "Conditional",
+        "properytype": "Residential",
+        "authority": "Exclusive",
+        "saletype": "Sale",
+        "underoffer": 1,
+        "houseandland": 0,
+        "newlybuilt": 0,
+        "disabled": 0,
+        "listeddate": "2023-05-23",
+        "originallisteddate": null,
+        "expirydate": "2023-09-19",
+        "agencyperiod": 0,
+        "vacantpossession": 0,
+        "category": "House",
+        "subcategory": "",
+        "mastercategory": "House",
+        "branch_sysid": 0,
+        "dept_sysid": 0
+      },
+      "address": {
+        "leveltype": "",
+        "level": "",
+        "streetno": 11,
+        "street": "Avila pl",
+        "suburb": "kenwick",
+        "suburb_sysid": 13387,
+        "city": "",
+        "postcode": 6107,
+        "state": "WA",
+        "country": "",
+        "building": null,
+        "_sortaddress": "Avila pl 00011 /00000, kenwick",
+        "_showaddress": "11 Avila pl, KENWICK"
+      },
+      "staff": [
+        19371
+      ],
+      "price": {
+        "from": 360000,
+        "to": 0,
+        "view": "Mid to High 300,000s",
+        "isrange": 0,
+        "first": 360000
+      },
+      "areas": {
+        "buildingarea": {
+          "range": 0,
+          "from": 0,
+          "to": 0,
+          "unit": ""
+        },
+        "landarea": {
+          "range": 0,
+          "from": 822,
+          "to": 0,
+          "unit": ""
+        }
+      },
+      "promo": {
+        "headline": "UNDER OFFER by KENWICK no.1 agent ANKUR BHASEEN",
+        "advert": "This spacious 2 bedrooms, 1 bathroom home sits in a quiet cul-de-sac location and is perched on a 822 sqm block. Ideal property for first home buyers and any investor who is looking for good rental return.\r\nIf you are looking for space to park/fix cars and trucks then this property is for you as it has side access with a massive workshop.\r\n\r\nPROPERTIES\r\n- 2 bedrooms, 1 Bathroom\r\n- Renovated Kitchen\r\n- Split air conditioning\r\n- Huge powered Workshop\r\n-  Alarm \r\n- Side acces to workshop at back\r\n- Cul de sac location\r\n- Next to the Avila reserve park\r\n- 822 sqm Block\r\n\r\n- Easy Access to major roads like Roe Highway, Tonkin Highway and Albany Highway\r\n\r\nCall ANKUR BHASEEN to make this property your today!\r\nMobile: 0430294110\r\nEmail: Ankur.bhaseen@area-rewa.com.au\r\nFollow Ankur on Facebook at Ankur Bhaseen – Area Real Estate WA\r\n\r\n\r\n\r\n\r\n",
+        "brochuretext": "",
+        "striptext": "",
+        "feature": 0,
+        "latitude": -32.0335012,
+        "longitude": 115.9906115,
+        "externallink1": "",
+        "externallink2": "",
+        "externallink3": "",
+        "videolink": "",
+        "weblink": ""
+      },
+      "council": {
+        "lot": "",
+        "plan": "",
+        "county": "",
+        "parish": "",
+        "municipality": "",
+        "rpd": "",
+        "legaldimensions": "",
+        "title": "",
+        "zoning": "",
+        "landuse": "",
+        "improvements": "",
+        "ulv": 0,
+        "ulvdate": null,
+        "volume": "",
+        "folio": ""
+      },
+      "residential": {
+        "construction": "",
+        "interior": "",
+        "roof": "",
+        "style": "",
+        "bedroooms": 2,
+        "bathrooms": 1,
+        "toilets": 1,
+        "ensuite": 0,
+        "garages": 0,
+        "carports": 0,
+        "openspaces": 2,
+        "ac": 0,
+        "alarmsystem": 0,
+        "vacuumsystem": 0,
+        "intercom": 0,
+        "poolinground": 0,
+        "poolabovepround": 0,
+        "spainside": 0,
+        "spaoutside": 0,
+        "tenniscourt": 0,
+        "openfireplace": 0,
+        "heating": "",
+        "hotwaterservice": "",
+        "otherfeatures": "",
+        "lifestyle": 0,
+        "acreage": 0,
+        "waterfront": 0,
+        "investment": 0,
+        "golf": 0,
+        "value": 0,
+        "unique": 0,
+        "balcony": 0,
+        "broadband": 0,
+        "courtyard": 0,
+        "deck": 0,
+        "study": 0,
+        "garden": 0,
+        "gym": 0,
+        "dishwasher": 0,
+        "ductedcooling": 0,
+        "ductedheating": 0,
+        "evaporativecooling": 0,
+        "paytv": 0,
+        "splitsystemac": 0,
+        "gasheating": 0,
+        "outdoorent": 0,
+        "shed": 0,
+        "fullyfenced": 0,
+        "floorboards": 0,
+        "remotegarage": 0,
+        "workshop": 0,
+        "builtinrobes": 0,
+        "hydroponicheating": 0,
+        "secureparking": 0,
+        "reversecycleac": 0,
+        "rumpusroom": 0,
+        "coastal": 0,
+        "extraincome": 0
+      },
+      "commercial": null,
+      "rural": null,
+      "sustain": {
+        "solarpanels": 0,
+        "solarhotwater": 0,
+        "watertank": 0,
+        "greywatersystem": 0
+      },
+      "ofis": [],
+      "photos": [
+        {
+          "sysid": 4766747,
+          "id": 1,
+          "url": "https://titan.inhabit.com.au/images/360/0004766747.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766747.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766747.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766747.jpg?r=0"
+        },
+        {
+          "sysid": 4766746,
+          "id": 2,
+          "url": "https://titan.inhabit.com.au/images/360/0004766746.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766746.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766746.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766746.jpg?r=0"
+        },
+        {
+          "sysid": 4766745,
+          "id": 3,
+          "url": "https://titan.inhabit.com.au/images/360/0004766745.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766745.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766745.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766745.jpg?r=0"
+        },
+        {
+          "sysid": 4766724,
+          "id": 4,
+          "url": "https://titan.inhabit.com.au/images/360/0004766724.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766724.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766724.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766724.jpg?r=0"
+        },
+        {
+          "sysid": 4766735,
+          "id": 5,
+          "url": "https://titan.inhabit.com.au/images/360/0004766735.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766735.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766735.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766735.jpg?r=0"
+        },
+        {
+          "sysid": 4766744,
+          "id": 6,
+          "url": "https://titan.inhabit.com.au/images/360/0004766744.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766744.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766744.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766744.jpg?r=0"
+        },
+        {
+          "sysid": 4766740,
+          "id": 7,
+          "url": "https://titan.inhabit.com.au/images/360/0004766740.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766740.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766740.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766740.jpg?r=0"
+        },
+        {
+          "sysid": 4766739,
+          "id": 8,
+          "url": "https://titan.inhabit.com.au/images/360/0004766739.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766739.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766739.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766739.jpg?r=0"
+        },
+        {
+          "sysid": 4766738,
+          "id": 9,
+          "url": "https://titan.inhabit.com.au/images/360/0004766738.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766738.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766738.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766738.jpg?r=0"
+        },
+        {
+          "sysid": 4766736,
+          "id": 10,
+          "url": "https://titan.inhabit.com.au/images/360/0004766736.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766736.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766736.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766736.jpg?r=0"
+        },
+        {
+          "sysid": 4766734,
+          "id": 11,
+          "url": "https://titan.inhabit.com.au/images/360/0004766734.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766734.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766734.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766734.jpg?r=0"
+        },
+        {
+          "sysid": 4766737,
+          "id": 12,
+          "url": "https://titan.inhabit.com.au/images/360/0004766737.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766737.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766737.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766737.jpg?r=0"
+        },
+        {
+          "sysid": 4766732,
+          "id": 13,
+          "url": "https://titan.inhabit.com.au/images/360/0004766732.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766732.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766732.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766732.jpg?r=0"
+        },
+        {
+          "sysid": 4766741,
+          "id": 14,
+          "url": "https://titan.inhabit.com.au/images/360/0004766741.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766741.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766741.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766741.jpg?r=0"
+        },
+        {
+          "sysid": 4766742,
+          "id": 15,
+          "url": "https://titan.inhabit.com.au/images/360/0004766742.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766742.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766742.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766742.jpg?r=0"
+        },
+        {
+          "sysid": 4766731,
+          "id": 16,
+          "url": "https://titan.inhabit.com.au/images/360/0004766731.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766731.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766731.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766731.jpg?r=0"
+        },
+        {
+          "sysid": 4766721,
+          "id": 17,
+          "url": "https://titan.inhabit.com.au/images/360/0004766721.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766721.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766721.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766721.jpg?r=0"
+        },
+        {
+          "sysid": 4766722,
+          "id": 18,
+          "url": "https://titan.inhabit.com.au/images/360/0004766722.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766722.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766722.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766722.jpg?r=0"
+        },
+        {
+          "sysid": 4766723,
+          "id": 19,
+          "url": "https://titan.inhabit.com.au/images/360/0004766723.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766723.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766723.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766723.jpg?r=0"
+        },
+        {
+          "sysid": 4766726,
+          "id": 20,
+          "url": "https://titan.inhabit.com.au/images/360/0004766726.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766726.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766726.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766726.jpg?r=0"
+        },
+        {
+          "sysid": 4766728,
+          "id": 21,
+          "url": "https://titan.inhabit.com.au/images/360/0004766728.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766728.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766728.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766728.jpg?r=0"
+        },
+        {
+          "sysid": 4766729,
+          "id": 22,
+          "url": "https://titan.inhabit.com.au/images/360/0004766729.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766729.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766729.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766729.jpg?r=0"
+        },
+        {
+          "sysid": 4766730,
+          "id": 23,
+          "url": "https://titan.inhabit.com.au/images/360/0004766730.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766730.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766730.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766730.jpg?r=0"
+        },
+        {
+          "sysid": 4766733,
+          "id": 24,
+          "url": "https://titan.inhabit.com.au/images/360/0004766733.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766733.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766733.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766733.jpg?r=0"
+        },
+        {
+          "sysid": 4766743,
+          "id": 25,
+          "url": "https://titan.inhabit.com.au/images/360/0004766743.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766743.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766743.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766743.jpg?r=0"
+        },
+        {
+          "sysid": 4766725,
+          "id": 26,
+          "url": "https://titan.inhabit.com.au/images/360/0004766725.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766725.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766725.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766725.jpg?r=0"
+        },
+        {
+          "sysid": 4766727,
+          "id": 27,
+          "url": "https://titan.inhabit.com.au/images/360/0004766727.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004766727.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004766727.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004766727.jpg?r=0"
+        }
+      ],
+      "vendors": [
+        2989718
+      ]
+    },
+    {
+      "office_sysid": 360,
+      "sysid": 738462,
+      "refno": "RVZA",
+      "modstamp": "2023-06-17T09:24:37",
+      "details": {
+        "status": "Listed",
+        "properytype": "Residential",
+        "authority": "Exclusive",
+        "saletype": "Sale",
+        "underoffer": 1,
+        "houseandland": 0,
+        "newlybuilt": 0,
+        "disabled": 0,
+        "listeddate": "2023-05-25",
+        "originallisteddate": null,
+        "expirydate": "2023-10-21",
+        "agencyperiod": 0,
+        "vacantpossession": 0,
+        "category": "House",
+        "subcategory": "",
+        "mastercategory": "House",
+        "branch_sysid": 0,
+        "dept_sysid": 0
+      },
+      "address": {
+        "leveltype": "",
+        "level": "",
+        "streetno": 9,
+        "street": "cayenne st",
+        "suburb": "wattle grove",
+        "suburb_sysid": 13389,
+        "city": "",
+        "postcode": 6107,
+        "state": "WA",
+        "country": "",
+        "building": null,
+        "_sortaddress": "cayenne st 00009 /00000, wattle grove",
+        "_showaddress": "9 cayenne st, WATTLE GROVE"
+      },
+      "staff": [
+        19371
+      ],
+      "price": {
+        "from": 549000,
+        "to": 0,
+        "view": "From $549,000",
+        "isrange": 0,
+        "first": 549000
+      },
+      "areas": {
+        "buildingarea": {
+          "range": 0,
+          "from": 0,
+          "to": 0,
+          "unit": ""
+        },
+        "landarea": {
+          "range": 0,
+          "from": 444,
+          "to": 0,
+          "unit": ""
+        }
+      },
+      "promo": {
+        "headline": "UNDER OFFER by ANKUR BHASEEN",
+        "advert": "Wattle Grove is one of the most sought after and family friendly suburbs in Perth and it is my absolute pleasure to bring to market this three bedroom two-bathroom home with theatre, study room and is perfect for the growing family with plenty of room out back the the kids to play.\r\n9 Cayenne Street is a fantastic home with careful considerations made to maximize the space and feel while remaining functional. Highly maintained and all the comforts allow the next buyer for this home to walk straight in and fall in love too!.\r\n\r\nThe light and bright open plan living area is a great place to relax at the end of a busy. With two minor bedrooms and an oversized master with walk in robe and private ensuite this property ticks all the right boxes.\r\nSet on 444 sqm Block with plenty of indoor/outdoor entertaining areas, this property is the perfect property to entertain friends and family.\r\n\r\nProperty Features:\r\n- There are 3 Great Sized Bedrooms\r\n- Master with walk in closet and large ensuite\r\n- Seperate games room or front lounge depending on your needs\r\n- Beautifully finished throughout for a modern feel and easy maintenance\r\n- Huge open living space of lounge, dining and family room combined overlooked by the kitchen\r\n- Seperate study room that can either be a kids play room if that suits\r\n- Spacious chef Kitchen overlooking the lounge and dining with stainless steel appliances and dishwasher\r\n- Ducted reverse cycle air conditioning throughout\r\n-Downlights installed\r\n\r\nLOCATION\r\nThe main selling feature of this home is its fantastic location!\r\n- 250m to the local park and lake\r\n- 625m Aldi shopping centre with smaller speciality stores.\r\n- 8.9km to the Burswood Crown Casino and Optus Stadium \r\n- 350m to Wattle Grove Primary.\r\n- Multiple bus stops and Routes to the Perth CBD (inc. 282 to Perth CBD)\r\n- 7.8km to the Perth Airport ($20.16 approx by Uber)\r\n\r\nCall ANKUR BHASEEN to make this property your today!\r\nMobile: 0430294110\r\nEmail: Ankur.bhaseen@area-rewa.com.au\r\nFollow Ankur on Facebook at Ankur Bhaseen – Area Real Estate WA.\r\n\r\n",
+        "brochuretext": "",
+        "striptext": "",
+        "feature": 0,
+        "latitude": -31.9985061,
+        "longitude": 115.978926,
+        "externallink1": "",
+        "externallink2": "",
+        "externallink3": "",
+        "videolink": "",
+        "weblink": ""
+      },
+      "council": {
+        "lot": "",
+        "plan": "",
+        "county": "",
+        "parish": "",
+        "municipality": "",
+        "rpd": "",
+        "legaldimensions": "",
+        "title": "",
+        "zoning": "",
+        "landuse": "",
+        "improvements": "",
+        "ulv": 0,
+        "ulvdate": null,
+        "volume": "",
+        "folio": ""
+      },
+      "residential": {
+        "construction": "",
+        "interior": "",
+        "roof": "",
+        "style": "",
+        "bedroooms": 3,
+        "bathrooms": 2,
+        "toilets": 2,
+        "ensuite": 0,
+        "garages": 2,
+        "carports": 0,
+        "openspaces": 0,
+        "ac": 0,
+        "alarmsystem": 0,
+        "vacuumsystem": 0,
+        "intercom": 0,
+        "poolinground": 0,
+        "poolabovepround": 0,
+        "spainside": 0,
+        "spaoutside": 0,
+        "tenniscourt": 0,
+        "openfireplace": 0,
+        "heating": "",
+        "hotwaterservice": "",
+        "otherfeatures": "",
+        "lifestyle": 0,
+        "acreage": 0,
+        "waterfront": 0,
+        "investment": 0,
+        "golf": 0,
+        "value": 0,
+        "unique": 0,
+        "balcony": 0,
+        "broadband": 0,
+        "courtyard": 0,
+        "deck": 0,
+        "study": 0,
+        "garden": 0,
+        "gym": 0,
+        "dishwasher": 0,
+        "ductedcooling": 0,
+        "ductedheating": 0,
+        "evaporativecooling": 0,
+        "paytv": 0,
+        "splitsystemac": 0,
+        "gasheating": 0,
+        "outdoorent": 0,
+        "shed": 0,
+        "fullyfenced": 0,
+        "floorboards": 0,
+        "remotegarage": 0,
+        "workshop": 0,
+        "builtinrobes": 0,
+        "hydroponicheating": 0,
+        "secureparking": 0,
+        "reversecycleac": 0,
+        "rumpusroom": 0,
+        "coastal": 0,
+        "extraincome": 0
+      },
+      "commercial": null,
+      "rural": null,
+      "sustain": {
+        "solarpanels": 0,
+        "solarhotwater": 0,
+        "watertank": 0,
+        "greywatersystem": 0
+      },
+      "ofis": [],
+      "photos": [
+        {
+          "sysid": 4768717,
+          "id": 1,
+          "url": "https://titan.inhabit.com.au/images/360/0004768717.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004768717.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004768717.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004768717.jpg?r=0"
+        },
+        {
+          "sysid": 4768700,
+          "id": 2,
+          "url": "https://titan.inhabit.com.au/images/360/0004768700.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004768700.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004768700.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004768700.jpg?r=0"
+        },
+        {
+          "sysid": 4769600,
+          "id": 3,
+          "url": "https://titan.inhabit.com.au/images/360/0004769600.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769600.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769600.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769600.jpg?r=0"
+        },
+        {
+          "sysid": 4769623,
+          "id": 4,
+          "url": "https://titan.inhabit.com.au/images/360/0004769623.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769623.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769623.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769623.jpg?r=0"
+        },
+        {
+          "sysid": 4769615,
+          "id": 5,
+          "url": "https://titan.inhabit.com.au/images/360/0004769615.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769615.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769615.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769615.jpg?r=0"
+        },
+        {
+          "sysid": 4769617,
+          "id": 6,
+          "url": "https://titan.inhabit.com.au/images/360/0004769617.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769617.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769617.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769617.jpg?r=0"
+        },
+        {
+          "sysid": 4769616,
+          "id": 7,
+          "url": "https://titan.inhabit.com.au/images/360/0004769616.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769616.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769616.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769616.jpg?r=0"
+        },
+        {
+          "sysid": 4769608,
+          "id": 8,
+          "url": "https://titan.inhabit.com.au/images/360/0004769608.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769608.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769608.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769608.jpg?r=0"
+        },
+        {
+          "sysid": 4769612,
+          "id": 9,
+          "url": "https://titan.inhabit.com.au/images/360/0004769612.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769612.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769612.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769612.jpg?r=0"
+        },
+        {
+          "sysid": 4769601,
+          "id": 10,
+          "url": "https://titan.inhabit.com.au/images/360/0004769601.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769601.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769601.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769601.jpg?r=0"
+        },
+        {
+          "sysid": 4769602,
+          "id": 11,
+          "url": "https://titan.inhabit.com.au/images/360/0004769602.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769602.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769602.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769602.jpg?r=0"
+        },
+        {
+          "sysid": 4769603,
+          "id": 12,
+          "url": "https://titan.inhabit.com.au/images/360/0004769603.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769603.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769603.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769603.jpg?r=0"
+        },
+        {
+          "sysid": 4769604,
+          "id": 13,
+          "url": "https://titan.inhabit.com.au/images/360/0004769604.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769604.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769604.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769604.jpg?r=0"
+        },
+        {
+          "sysid": 4769605,
+          "id": 14,
+          "url": "https://titan.inhabit.com.au/images/360/0004769605.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769605.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769605.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769605.jpg?r=0"
+        },
+        {
+          "sysid": 4769606,
+          "id": 15,
+          "url": "https://titan.inhabit.com.au/images/360/0004769606.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769606.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769606.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769606.jpg?r=0"
+        },
+        {
+          "sysid": 4769607,
+          "id": 16,
+          "url": "https://titan.inhabit.com.au/images/360/0004769607.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769607.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769607.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769607.jpg?r=0"
+        },
+        {
+          "sysid": 4769609,
+          "id": 17,
+          "url": "https://titan.inhabit.com.au/images/360/0004769609.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769609.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769609.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769609.jpg?r=0"
+        },
+        {
+          "sysid": 4769610,
+          "id": 18,
+          "url": "https://titan.inhabit.com.au/images/360/0004769610.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769610.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769610.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769610.jpg?r=0"
+        },
+        {
+          "sysid": 4769611,
+          "id": 19,
+          "url": "https://titan.inhabit.com.au/images/360/0004769611.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769611.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769611.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769611.jpg?r=0"
+        },
+        {
+          "sysid": 4769613,
+          "id": 20,
+          "url": "https://titan.inhabit.com.au/images/360/0004769613.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769613.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769613.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769613.jpg?r=0"
+        },
+        {
+          "sysid": 4769614,
+          "id": 21,
+          "url": "https://titan.inhabit.com.au/images/360/0004769614.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769614.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769614.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769614.jpg?r=0"
+        },
+        {
+          "sysid": 4769618,
+          "id": 22,
+          "url": "https://titan.inhabit.com.au/images/360/0004769618.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769618.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769618.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769618.jpg?r=0"
+        },
+        {
+          "sysid": 4769619,
+          "id": 23,
+          "url": "https://titan.inhabit.com.au/images/360/0004769619.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769619.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769619.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769619.jpg?r=0"
+        },
+        {
+          "sysid": 4769620,
+          "id": 24,
+          "url": "https://titan.inhabit.com.au/images/360/0004769620.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769620.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769620.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769620.jpg?r=0"
+        },
+        {
+          "sysid": 4769621,
+          "id": 25,
+          "url": "https://titan.inhabit.com.au/images/360/0004769621.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769621.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769621.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769621.jpg?r=0"
+        },
+        {
+          "sysid": 4769622,
+          "id": 26,
+          "url": "https://titan.inhabit.com.au/images/360/0004769622.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769622.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769622.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769622.jpg?r=0"
+        },
+        {
+          "sysid": 4769624,
+          "id": 27,
+          "url": "https://titan.inhabit.com.au/images/360/0004769624.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769624.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769624.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769624.jpg?r=0"
+        },
+        {
+          "sysid": 4769625,
+          "id": 28,
+          "url": "https://titan.inhabit.com.au/images/360/0004769625.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769625.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769625.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769625.jpg?r=0"
+        },
+        {
+          "sysid": 4769626,
+          "id": 29,
+          "url": "https://titan.inhabit.com.au/images/360/0004769626.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769626.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769626.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769626.jpg?r=0"
+        },
+        {
+          "sysid": 4769627,
+          "id": 30,
+          "url": "https://titan.inhabit.com.au/images/360/0004769627.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769627.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769627.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769627.jpg?r=0"
+        },
+        {
+          "sysid": 4769628,
+          "id": 31,
+          "url": "https://titan.inhabit.com.au/images/360/0004769628.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769628.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769628.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769628.jpg?r=0"
+        },
+        {
+          "sysid": 4769629,
+          "id": 32,
+          "url": "https://titan.inhabit.com.au/images/360/0004769629.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769629.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769629.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769629.jpg?r=0"
+        },
+        {
+          "sysid": 4769630,
+          "id": 33,
+          "url": "https://titan.inhabit.com.au/images/360/0004769630.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769630.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769630.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769630.jpg?r=0"
+        }
+      ],
+      "vendors": [
+        2992962
+      ]
+    },
+    {
+      "office_sysid": 360,
+      "sysid": 738518,
+      "refno": "AFZA",
+      "modstamp": "2023-06-17T19:01:44",
+      "details": {
+        "status": "Listed",
+        "properytype": "Residential",
+        "authority": "Exclusive",
+        "saletype": "Sale",
+        "underoffer": 1,
+        "houseandland": 0,
+        "newlybuilt": 0,
+        "disabled": 0,
+        "listeddate": "2023-06-01",
+        "originallisteddate": null,
+        "expirydate": "2023-08-30",
+        "agencyperiod": 0,
+        "vacantpossession": 0,
+        "category": "House",
+        "subcategory": "",
+        "mastercategory": "House",
+        "branch_sysid": 0,
+        "dept_sysid": 0
+      },
+      "address": {
+        "leveltype": "",
+        "level": "",
+        "streetno": 14,
+        "street": "gayhurst st",
+        "suburb": "kenwick",
+        "suburb_sysid": 13387,
+        "city": "",
+        "postcode": 6107,
+        "state": "WA",
+        "country": "",
+        "building": null,
+        "_sortaddress": "gayhurst st 00014 /00000, kenwick",
+        "_showaddress": "14 gayhurst st, KENWICK"
+      },
+      "staff": [
+        19371
+      ],
+      "price": {
+        "from": 380000,
+        "to": 0,
+        "view": "FROM $389,000",
+        "isrange": 0,
+        "first": 350000
+      },
+      "areas": {
+        "buildingarea": {
+          "range": 0,
+          "from": 0,
+          "to": 0,
+          "unit": ""
+        },
+        "landarea": {
+          "range": 0,
+          "from": 674,
+          "to": 0,
+          "unit": ""
+        }
+      },
+      "promo": {
+        "headline": "UNDER OFFER by KENWICK no.1 agent ANKUR BHASEEN",
+        "advert": "HOME OPEN CANCELLED -UNDER OFFER\r\n\r\nLocated on a corner block, three bedroom, one bathroom home, currently Zoned R17.5 With Rezoning Potential to R30 (under corner lot density scheme) that means subdivision potential ,making it a must-see for those seeking a rewarding real estate venture.\r\n\r\nWith solid brick and tile construction, this home boasts a classic late 1970s floor plan that provides a sturdy foundation for your vision. The layout features a welcoming living area at the front, a kitchen/dining space, and 3 comfortable bedrooms arranged around a practical bathroom. While some minor improvements are needed, the tasks at hand are manageable—new floors and a little TLC will go a long way in transforming this residence into a cosy haven.\r\n\r\nThere is great outdoor covered patio area, just a wonderful area to relax on a sunny afternoon.\r\n\r\nIdeal Location with Easy Access to Albany Highway, Kenwick Link & Roe Highway\r\n\r\nPROPERTY FEATURE:\r\n- 3 Bedroom, 1 Bathroom.\r\n- Close to train station\r\n- Alfresco entertaining area\r\n- Laundry and linen press\r\n- Ample visitor parking\r\n- Garden shed\r\n-674 sqm block\r\nNote: Property will be sold AS IS basis.\r\n\r\nCall ANKUR BHASEEN to make this property your today!\r\nMobile: 0430294110\r\nEmail: Ankur.bhaseen@area-rewa.com.au\r\nFollow Ankur on Facebook at Ankur Bhaseen - Area Real Estate WA\r\n",
+        "brochuretext": "",
+        "striptext": "",
+        "feature": 0,
+        "latitude": -32.0389594,
+        "longitude": 115.9728752,
+        "externallink1": "",
+        "externallink2": "",
+        "externallink3": "",
+        "videolink": "",
+        "weblink": ""
+      },
+      "council": {
+        "lot": "",
+        "plan": "",
+        "county": "",
+        "parish": "",
+        "municipality": "",
+        "rpd": "",
+        "legaldimensions": "",
+        "title": "",
+        "zoning": "",
+        "landuse": "",
+        "improvements": "",
+        "ulv": 0,
+        "ulvdate": null,
+        "volume": "",
+        "folio": ""
+      },
+      "residential": {
+        "construction": "",
+        "interior": "",
+        "roof": "",
+        "style": "",
+        "bedroooms": 3,
+        "bathrooms": 1,
+        "toilets": 1,
+        "ensuite": 0,
+        "garages": 1,
+        "carports": 0,
+        "openspaces": 0,
+        "ac": 0,
+        "alarmsystem": 0,
+        "vacuumsystem": 0,
+        "intercom": 0,
+        "poolinground": 0,
+        "poolabovepround": 0,
+        "spainside": 0,
+        "spaoutside": 0,
+        "tenniscourt": 0,
+        "openfireplace": 0,
+        "heating": "",
+        "hotwaterservice": "",
+        "otherfeatures": "",
+        "lifestyle": 0,
+        "acreage": 0,
+        "waterfront": 0,
+        "investment": 0,
+        "golf": 0,
+        "value": 0,
+        "unique": 0,
+        "balcony": 0,
+        "broadband": 0,
+        "courtyard": 0,
+        "deck": 0,
+        "study": 0,
+        "garden": 0,
+        "gym": 0,
+        "dishwasher": 0,
+        "ductedcooling": 0,
+        "ductedheating": 0,
+        "evaporativecooling": 0,
+        "paytv": 0,
+        "splitsystemac": 0,
+        "gasheating": 0,
+        "outdoorent": 0,
+        "shed": 0,
+        "fullyfenced": 0,
+        "floorboards": 0,
+        "remotegarage": 0,
+        "workshop": 0,
+        "builtinrobes": 0,
+        "hydroponicheating": 0,
+        "secureparking": 0,
+        "reversecycleac": 0,
+        "rumpusroom": 0,
+        "coastal": 0,
+        "extraincome": 0
+      },
+      "commercial": null,
+      "rural": null,
+      "sustain": {
+        "solarpanels": 0,
+        "solarhotwater": 0,
+        "watertank": 0,
+        "greywatersystem": 0
+      },
+      "ofis": [],
+      "photos": [
+        {
+          "sysid": 4769654,
+          "id": 1,
+          "url": "https://titan.inhabit.com.au/images/360/0004769654.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769654.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769654.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769654.jpg?r=0"
+        },
+        {
+          "sysid": 4769653,
+          "id": 2,
+          "url": "https://titan.inhabit.com.au/images/360/0004769653.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769653.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769653.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769653.jpg?r=0"
+        },
+        {
+          "sysid": 4769632,
+          "id": 3,
+          "url": "https://titan.inhabit.com.au/images/360/0004769632.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769632.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769632.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769632.jpg?r=0"
+        },
+        {
+          "sysid": 4769641,
+          "id": 4,
+          "url": "https://titan.inhabit.com.au/images/360/0004769641.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769641.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769641.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769641.jpg?r=0"
+        },
+        {
+          "sysid": 4769647,
+          "id": 5,
+          "url": "https://titan.inhabit.com.au/images/360/0004769647.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769647.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769647.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769647.jpg?r=0"
+        },
+        {
+          "sysid": 4769648,
+          "id": 6,
+          "url": "https://titan.inhabit.com.au/images/360/0004769648.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769648.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769648.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769648.jpg?r=0"
+        },
+        {
+          "sysid": 4769644,
+          "id": 7,
+          "url": "https://titan.inhabit.com.au/images/360/0004769644.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769644.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769644.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769644.jpg?r=0"
+        },
+        {
+          "sysid": 4769643,
+          "id": 8,
+          "url": "https://titan.inhabit.com.au/images/360/0004769643.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769643.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769643.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769643.jpg?r=0"
+        },
+        {
+          "sysid": 4769646,
+          "id": 9,
+          "url": "https://titan.inhabit.com.au/images/360/0004769646.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769646.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769646.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769646.jpg?r=0"
+        },
+        {
+          "sysid": 4769645,
+          "id": 10,
+          "url": "https://titan.inhabit.com.au/images/360/0004769645.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769645.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769645.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769645.jpg?r=0"
+        },
+        {
+          "sysid": 4769650,
+          "id": 11,
+          "url": "https://titan.inhabit.com.au/images/360/0004769650.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769650.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769650.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769650.jpg?r=0"
+        },
+        {
+          "sysid": 4769651,
+          "id": 12,
+          "url": "https://titan.inhabit.com.au/images/360/0004769651.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769651.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769651.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769651.jpg?r=0"
+        },
+        {
+          "sysid": 4769652,
+          "id": 13,
+          "url": "https://titan.inhabit.com.au/images/360/0004769652.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769652.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769652.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769652.jpg?r=0"
+        },
+        {
+          "sysid": 4769633,
+          "id": 14,
+          "url": "https://titan.inhabit.com.au/images/360/0004769633.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769633.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769633.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769633.jpg?r=0"
+        },
+        {
+          "sysid": 4769634,
+          "id": 15,
+          "url": "https://titan.inhabit.com.au/images/360/0004769634.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769634.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769634.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769634.jpg?r=0"
+        },
+        {
+          "sysid": 4769635,
+          "id": 16,
+          "url": "https://titan.inhabit.com.au/images/360/0004769635.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769635.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769635.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769635.jpg?r=0"
+        },
+        {
+          "sysid": 4769636,
+          "id": 17,
+          "url": "https://titan.inhabit.com.au/images/360/0004769636.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769636.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769636.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769636.jpg?r=0"
+        },
+        {
+          "sysid": 4769642,
+          "id": 18,
+          "url": "https://titan.inhabit.com.au/images/360/0004769642.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769642.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769642.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769642.jpg?r=0"
+        },
+        {
+          "sysid": 4769637,
+          "id": 19,
+          "url": "https://titan.inhabit.com.au/images/360/0004769637.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769637.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769637.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769637.jpg?r=0"
+        },
+        {
+          "sysid": 4769638,
+          "id": 20,
+          "url": "https://titan.inhabit.com.au/images/360/0004769638.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769638.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769638.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769638.jpg?r=0"
+        },
+        {
+          "sysid": 4769639,
+          "id": 21,
+          "url": "https://titan.inhabit.com.au/images/360/0004769639.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769639.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769639.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769639.jpg?r=0"
+        },
+        {
+          "sysid": 4769640,
+          "id": 22,
+          "url": "https://titan.inhabit.com.au/images/360/0004769640.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769640.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769640.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769640.jpg?r=0"
+        },
+        {
+          "sysid": 4769649,
+          "id": 23,
+          "url": "https://titan.inhabit.com.au/images/360/0004769649.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004769649.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004769649.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004769649.jpg?r=0"
+        }
+      ],
+      "vendors": []
+    },
+    {
+      "office_sysid": 360,
+      "sysid": 738201,
+      "refno": "8H3A",
+      "modstamp": "2023-06-20T13:10:41",
+      "details": {
+        "status": "Conditional",
+        "properytype": "Residential",
+        "authority": "Exclusive",
+        "saletype": "Sale",
+        "underoffer": 1,
+        "houseandland": 0,
+        "newlybuilt": 0,
+        "disabled": 0,
+        "listeddate": "2023-05-18",
+        "originallisteddate": null,
+        "expirydate": "2023-11-13",
+        "agencyperiod": 0,
+        "vacantpossession": 0,
+        "category": "House",
+        "subcategory": "",
+        "mastercategory": "House",
+        "branch_sysid": 0,
+        "dept_sysid": 0
+      },
+      "address": {
+        "leveltype": "",
+        "level": "",
+        "streetno": 26,
+        "street": "kenwick rd",
+        "suburb": "kenwick",
+        "suburb_sysid": 13387,
+        "city": "",
+        "postcode": 6107,
+        "state": "WA",
+        "country": "",
+        "building": null,
+        "_sortaddress": "kenwick rd 00026 /00000, kenwick",
+        "_showaddress": "26 kenwick rd, KENWICK"
+      },
+      "staff": [
+        19371
+      ],
+      "price": {
+        "from": 699000,
+        "to": 0,
+        "view": "From $699,000",
+        "isrange": 0,
+        "first": 599000
+      },
+      "areas": {
+        "buildingarea": {
+          "range": 0,
+          "from": 0,
+          "to": 0,
+          "unit": ""
+        },
+        "landarea": {
+          "range": 0,
+          "from": 1840,
+          "to": 0,
+          "unit": "sqm"
+        }
+      },
+      "promo": {
+        "headline": "UNDER OFFER by KENWICK no.1 agent ANKUR BHASEEN",
+        "advert": "This is a golden opportunity to secure one of Kenwick's best valued high density rectangular block consisting of 1840 sqm of prime land currently zoned R20/60 in the sought after suburb of Kenwick. This outstanding property represents great value for the savvy investor or the astute buyers looking to secure paramount real estate in one of Perth's most convenient and central precincts.\n\nAn extensive renovation including kitchen, bathroom, flooring and curtains has been recently completed allowing you to move in and add your own personal touches.\n\nStrategically situated in walking distance to Kenwick Train Station, Shops, Schools and beautiful parks and hosts of amenities . The possibilities are endless and the decision is easy for blocks like this.\n\n\nPROPERTIES\n- 4 bedroom and self contained Granny flat.\n- Large Bedrooms - all with walk in robes\n- 1 Bathroom - 2 Toilets\n- Spacious living area with new flooring\n- Ducted air conditioning\n- Separate self contained granny flat\n-Roller shutters and cameras.\n- 5th Bedroom, second kitchen and second bathroom\n- Large 6m x 6m Powered workshop, perfect for the Handyman/Mechanic\n- 1840 square metres of prime land\n- 18.3 metre frontage,\n- Zoned R20/60.\n-  Approximately 350min Kenwick Train Station\n-Walking distance to FoodWorks Kenwick\n-Walking distance to Rehoboth Christian College-\n- Just 7 minutes to Westfield Carousel Shopping Centre- \n-Easy Access to major roads   Roe Highway, Tonkin Highway and Albany Highway\n\nThis is an exciting property... and an exciting opportunity to purchase a sizeable parcel only 15 minutes from the Perth CBD and with fantastic future development potential... at a bargain price!\n\nCall ANKUR BHASEEN to make this property your today!\nMobile: 0430294110\nEmail: Ankur.bhaseen@area-rewa.com.au\nFollow Ankur on Facebook at Ankur Bhaseen – Area Real Estate WA\n\n\n\n\n",
+        "brochuretext": "This is a golden opportunity to secure one of Kenwick's best valued high density rectangular block consisting of 1840 sqm of prime land currently zoned R20/60 in the sought after suburb of Kenwick.\n\nPROPERTY\n- 4 bedroom and self contained Granny flat.\n- Large Bedrooms - all with walk in robes\n- 1 Bathroom - 2 Toilets\n- Spacious living area with new flooring\n- Ducted air conditioning\n- Separate self contained granny flat\n-Roller shutters and cameras.",
+        "striptext": "",
+        "feature": 0,
+        "latitude": -32.035232,
+        "longitude": 115.971767,
+        "externallink1": "",
+        "externallink2": "",
+        "externallink3": "",
+        "videolink": "",
+        "weblink": ""
+      },
+      "council": {
+        "lot": 32,
+        "plan": 15330,
+        "county": "",
+        "parish": "",
+        "municipality": "",
+        "rpd": "",
+        "legaldimensions": "",
+        "title": "",
+        "zoning": "",
+        "landuse": "",
+        "improvements": "",
+        "ulv": 0,
+        "ulvdate": null,
+        "volume": 1135,
+        "folio": 806
+      },
+      "residential": {
+        "construction": "",
+        "interior": "",
+        "roof": "",
+        "style": "",
+        "bedroooms": 4,
+        "bathrooms": 1,
+        "toilets": 2,
+        "ensuite": 0,
+        "garages": 0,
+        "carports": 0,
+        "openspaces": 4,
+        "ac": 0,
+        "alarmsystem": 0,
+        "vacuumsystem": 0,
+        "intercom": 0,
+        "poolinground": 0,
+        "poolabovepround": 0,
+        "spainside": 0,
+        "spaoutside": 0,
+        "tenniscourt": 0,
+        "openfireplace": 0,
+        "heating": "",
+        "hotwaterservice": "",
+        "otherfeatures": "",
+        "lifestyle": 0,
+        "acreage": 0,
+        "waterfront": 0,
+        "investment": 0,
+        "golf": 0,
+        "value": 0,
+        "unique": 0,
+        "balcony": 0,
+        "broadband": 0,
+        "courtyard": 0,
+        "deck": 0,
+        "study": 0,
+        "garden": 0,
+        "gym": 0,
+        "dishwasher": 0,
+        "ductedcooling": 0,
+        "ductedheating": 0,
+        "evaporativecooling": 0,
+        "paytv": 0,
+        "splitsystemac": 0,
+        "gasheating": 0,
+        "outdoorent": 0,
+        "shed": 0,
+        "fullyfenced": 0,
+        "floorboards": 0,
+        "remotegarage": 0,
+        "workshop": 0,
+        "builtinrobes": 0,
+        "hydroponicheating": 0,
+        "secureparking": 0,
+        "reversecycleac": 0,
+        "rumpusroom": 0,
+        "coastal": 0,
+        "extraincome": 0
+      },
+      "commercial": null,
+      "rural": null,
+      "sustain": {
+        "solarpanels": 0,
+        "solarhotwater": 0,
+        "watertank": 0,
+        "greywatersystem": 0
+      },
+      "ofis": [],
+      "photos": [
+        {
+          "sysid": 4762391,
+          "id": 1,
+          "url": "https://titan.inhabit.com.au/images/360/0004762391.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762391.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762391.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762391.jpg?r=0"
+        },
+        {
+          "sysid": 4762410,
+          "id": 2,
+          "url": "https://titan.inhabit.com.au/images/360/0004762410.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762410.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762410.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762410.jpg?r=0"
+        },
+        {
+          "sysid": 4762409,
+          "id": 3,
+          "url": "https://titan.inhabit.com.au/images/360/0004762409.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762409.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762409.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762409.jpg?r=0"
+        },
+        {
+          "sysid": 4762399,
+          "id": 4,
+          "url": "https://titan.inhabit.com.au/images/360/0004762399.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762399.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762399.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762399.jpg?r=0"
+        },
+        {
+          "sysid": 4762406,
+          "id": 5,
+          "url": "https://titan.inhabit.com.au/images/360/0004762406.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762406.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762406.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762406.jpg?r=0"
+        },
+        {
+          "sysid": 4762403,
+          "id": 6,
+          "url": "https://titan.inhabit.com.au/images/360/0004762403.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762403.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762403.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762403.jpg?r=0"
+        },
+        {
+          "sysid": 4762405,
+          "id": 7,
+          "url": "https://titan.inhabit.com.au/images/360/0004762405.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762405.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762405.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762405.jpg?r=0"
+        },
+        {
+          "sysid": 4762407,
+          "id": 8,
+          "url": "https://titan.inhabit.com.au/images/360/0004762407.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762407.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762407.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762407.jpg?r=0"
+        },
+        {
+          "sysid": 4762408,
+          "id": 9,
+          "url": "https://titan.inhabit.com.au/images/360/0004762408.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762408.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762408.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762408.jpg?r=0"
+        },
+        {
+          "sysid": 4762395,
+          "id": 10,
+          "url": "https://titan.inhabit.com.au/images/360/0004762395.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762395.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762395.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762395.jpg?r=0"
+        },
+        {
+          "sysid": 4762394,
+          "id": 11,
+          "url": "https://titan.inhabit.com.au/images/360/0004762394.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762394.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762394.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762394.jpg?r=0"
+        },
+        {
+          "sysid": 4762392,
+          "id": 12,
+          "url": "https://titan.inhabit.com.au/images/360/0004762392.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762392.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762392.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762392.jpg?r=0"
+        },
+        {
+          "sysid": 4762393,
+          "id": 13,
+          "url": "https://titan.inhabit.com.au/images/360/0004762393.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762393.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762393.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762393.jpg?r=0"
+        },
+        {
+          "sysid": 4762396,
+          "id": 14,
+          "url": "https://titan.inhabit.com.au/images/360/0004762396.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762396.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762396.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762396.jpg?r=0"
+        },
+        {
+          "sysid": 4762397,
+          "id": 15,
+          "url": "https://titan.inhabit.com.au/images/360/0004762397.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762397.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762397.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762397.jpg?r=0"
+        },
+        {
+          "sysid": 4762398,
+          "id": 16,
+          "url": "https://titan.inhabit.com.au/images/360/0004762398.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762398.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762398.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762398.jpg?r=0"
+        },
+        {
+          "sysid": 4762400,
+          "id": 17,
+          "url": "https://titan.inhabit.com.au/images/360/0004762400.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762400.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762400.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762400.jpg?r=0"
+        },
+        {
+          "sysid": 4762401,
+          "id": 18,
+          "url": "https://titan.inhabit.com.au/images/360/0004762401.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762401.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762401.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762401.jpg?r=0"
+        },
+        {
+          "sysid": 4762402,
+          "id": 19,
+          "url": "https://titan.inhabit.com.au/images/360/0004762402.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762402.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762402.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762402.jpg?r=0"
+        },
+        {
+          "sysid": 4762404,
+          "id": 20,
+          "url": "https://titan.inhabit.com.au/images/360/0004762404.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762404.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762404.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762404.jpg?r=0"
+        },
+        {
+          "sysid": 4762411,
+          "id": 21,
+          "url": "https://titan.inhabit.com.au/images/360/0004762411.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762411.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762411.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762411.jpg?r=0"
+        },
+        {
+          "sysid": 4762412,
+          "id": 22,
+          "url": "https://titan.inhabit.com.au/images/360/0004762412.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762412.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762412.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762412.jpg?r=0"
+        },
+        {
+          "sysid": 4762413,
+          "id": 23,
+          "url": "https://titan.inhabit.com.au/images/360/0004762413.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762413.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762413.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762413.jpg?r=0"
+        },
+        {
+          "sysid": 4762414,
+          "id": 24,
+          "url": "https://titan.inhabit.com.au/images/360/0004762414.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762414.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762414.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762414.jpg?r=0"
+        },
+        {
+          "sysid": 4762415,
+          "id": 25,
+          "url": "https://titan.inhabit.com.au/images/360/0004762415.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762415.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762415.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762415.jpg?r=0"
+        },
+        {
+          "sysid": 4762416,
+          "id": 26,
+          "url": "https://titan.inhabit.com.au/images/360/0004762416.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762416.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762416.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762416.jpg?r=0"
+        },
+        {
+          "sysid": 4762417,
+          "id": 27,
+          "url": "https://titan.inhabit.com.au/images/360/0004762417.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762417.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762417.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762417.jpg?r=0"
+        },
+        {
+          "sysid": 4762418,
+          "id": 28,
+          "url": "https://titan.inhabit.com.au/images/360/0004762418.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762418.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762418.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762418.jpg?r=0"
+        },
+        {
+          "sysid": 4762419,
+          "id": 29,
+          "url": "https://titan.inhabit.com.au/images/360/0004762419.jpg?r=0",
+          "hires": "https://titan.inhabit.com.au/hires/360/0004762419.jpg?r=0",
+          "thumb": "https://titan.inhabit.com.au/thumbs/360/0004762419.jpg?r=0",
+          "pinky": "https://titan.inhabit.com.au/pinkys/360/0004762419.jpg?r=0"
+        }
+      ],
+      "vendors": [
+        2988530
+      ]
+    },
+    {
+      "office_sysid": 360,
+      "sysid": 737616,
+      "refno": "373A",
+      "modstamp": "2023-04-24T05:52:49",
+      "details": {
+        "status": "Appraisal",
+        "properytype": "Residential",
+        "authority": "sale",
+        "saletype": "Sale",
+        "underoffer": 0,
+        "houseandland": 0,
+        "newlybuilt": 0,
+        "disabled": 1,
+        "listeddate": null,
+        "originallisteddate": null,
+        "expirydate": "2023-07-23",
+        "agencyperiod": 0,
+        "vacantpossession": 0,
+        "category": "House",
+        "subcategory": "",
+        "mastercategory": "House",
+        "branch_sysid": 0,
+        "dept_sysid": 0
+      },
+      "address": {
+        "leveltype": "",
+        "level": "",
+        "streetno": 16,
+        "street": "solaris st",
+        "suburb": "wellard",
+        "suburb_sysid": 13518,
+        "city": "",
+        "postcode": 6170,
+        "state": "WA",
+        "country": "",
+        "building": null,
+        "_sortaddress": "solaris st 00016 /00000, wellard",
+        "_showaddress": "16 solaris st, WELLARD"
+      },
+      "staff": [
+        19371
+      ],
+      "price": {
+        "from": 0,
+        "to": 0,
+        "view": "",
+        "isrange": 0,
+        "first": 0
+      },
+      "areas": {
+        "buildingarea": {
+          "range": 0,
+          "from": 0,
+          "to": 0,
+          "unit": ""
+        },
+        "landarea": {
+          "range": 0,
+          "from": 390,
+          "to": 0,
+          "unit": "sqm"
+        }
+      },
+      "promo": {
+        "headline": "",
+        "advert": "",
+        "brochuretext": "",
+        "striptext": "",
+        "feature": 0,
+        "latitude": -32.2615772,
+        "longitude": 115.8567513,
+        "externallink1": "",
+        "externallink2": "",
+        "externallink3": "",
+        "videolink": "",
+        "weblink": ""
+      },
+      "council": {
+        "lot": "",
+        "plan": "",
+        "county": "",
+        "parish": "",
+        "municipality": "",
+        "rpd": "",
+        "legaldimensions": "",
+        "title": "",
+        "zoning": "",
+        "landuse": "",
+        "improvements": "",
+        "ulv": 0,
+        "ulvdate": null,
+        "volume": "",
+        "folio": ""
+      },
+      "residential": {
+        "construction": "",
+        "interior": "",
+        "roof": "",
+        "style": "",
+        "bedroooms": 4,
+        "bathrooms": 2,
+        "toilets": 2,
+        "ensuite": 0,
+        "garages": 2,
+        "carports": 0,
+        "openspaces": 0,
+        "ac": 0,
+        "alarmsystem": 0,
+        "vacuumsystem": 0,
+        "intercom": 0,
+        "poolinground": 0,
+        "poolabovepround": 0,
+        "spainside": 0,
+        "spaoutside": 0,
+        "tenniscourt": 0,
+        "openfireplace": 0,
+        "heating": "",
+        "hotwaterservice": "",
+        "otherfeatures": "",
+        "lifestyle": 0,
+        "acreage": 0,
+        "waterfront": 0,
+        "investment": 0,
+        "golf": 0,
+        "value": 0,
+        "unique": 0,
+        "balcony": 0,
+        "broadband": 0,
+        "courtyard": 0,
+        "deck": 0,
+        "study": 0,
+        "garden": 0,
+        "gym": 0,
+        "dishwasher": 0,
+        "ductedcooling": 0,
+        "ductedheating": 0,
+        "evaporativecooling": 0,
+        "paytv": 0,
+        "splitsystemac": 0,
+        "gasheating": 0,
+        "outdoorent": 0,
+        "shed": 0,
+        "fullyfenced": 0,
+        "floorboards": 0,
+        "remotegarage": 0,
+        "workshop": 0,
+        "builtinrobes": 0,
+        "hydroponicheating": 0,
+        "secureparking": 0,
+        "reversecycleac": 0,
+        "rumpusroom": 0,
+        "coastal": 0,
+        "extraincome": 0
+      },
+      "commercial": null,
+      "rural": null,
+      "sustain": {
+        "solarpanels": 0,
+        "solarhotwater": 0,
+        "watertank": 0,
+        "greywatersystem": 0
+      },
+      "ofis": [],
+      "photos": [],
+      "vendors": [
+        2979807
+      ]
+    }
+  ],
+  "duration": 180,
+  "error": 0,
+  "count": 5
+}
